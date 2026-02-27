@@ -1,0 +1,27 @@
+{
+  "name": "minimalissimo-about-page-clone-asuarez18",
+  "version": "1.0.0",
+  "description": "Your task is to replicate the [Minimalissimo/about](https://minimalissimo.com/suggest) site (using `FLEXBOX`, `GRID` and `responsive design`).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/minimalissimo-about-page-clone-ASuarez18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/minimalissimo-about-page-clone-ASuarez18/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/minimalissimo-about-page-clone-ASuarez18#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
