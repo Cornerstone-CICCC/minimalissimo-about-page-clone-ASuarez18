@@ -1,7 +1,11 @@
 # Flexbox-&-Grid-Assignment
 
+
 Your task is to replicate the [Minimalissimo/about](https://minimalissimo.com/suggest) site (using `FLEXBOX`, `GRID` and `responsive design`).
 
+#### Link to netlify web
+> [minimalissimo.netlify.app](https://minimalissimo.netlify.app/)
+> 
 ## What to build
 
 - **Goal:** Replicate **the ABOUT page only** (the Minimalissimo/about page is shown in the screenshot).
