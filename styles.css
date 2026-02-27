@@ -37,10 +37,15 @@ a:hover {
 }
 
 /* > Header  */
-/* TODO Flex sticky */
 .header { 
   display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
   flex-wrap: wrap;
+  background-color: var(--primary-color);
+  border-bottom: var(--border-section);
+  border-top: var(--border-section);
 }
 
 .header-button {
